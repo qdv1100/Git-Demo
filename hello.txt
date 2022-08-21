@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 hello git! 1111111111
-hello git!
-=======
-hello git!
 hello git! 2222222222
->>>>>>> test
 hello git!
 hello git!
 hello git!
